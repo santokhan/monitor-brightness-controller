@@ -48,3 +48,4 @@ for monitor in monitors:
 
 ## Tkinter user interface
 
+[preview](./public/preview.png)
