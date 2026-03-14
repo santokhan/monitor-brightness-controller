@@ -45,3 +45,6 @@ for monitor in monitors:
     except Exception as e:
         print(f"Could not read brightness for {monitor}: {e}")
 ```
+
+## Tkinter user interface
+
